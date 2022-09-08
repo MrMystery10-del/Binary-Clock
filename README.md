@@ -11,3 +11,6 @@ This Binary Clock have:
 How to Start:
 - Right click on the jar file inside of Binary Clock
 - If that did not work right click the bat file
+- Press N for Noob Mode
+- Press E for (German) Explain screen of how it work
+- DO USE THIS JAR ONLY INSIDE OF THE BINARY CLOCK FOLDER OR SOME FEATURES WILL NOT WORK AS EXPECTED
